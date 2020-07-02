@@ -1,5 +1,3 @@
-<!-- Author: Vranda Koolwal  -->
-
 <head>
 <link rel="stylesheet" href="stylesheet.css">
 </head>
